@@ -9,6 +9,6 @@
   <mj-column padding="15px" border-radius="15px" background-color="#fff">
     <mj-text align="center" font-size="20px" color="#757575">Есть вопросы?</mj-text>
     <mj-text align="center" font-size="16px" color="#757575">Пишите нам в чате личного кабинета на портале или в Telegram</mj-text>
-    <mj-button background-color="#0c51c4" href="https://t.me/juststudy_help_bot">Написать в поддержку</mj-button>
+    <mj-button background-color="#0c51c4" href="https://t.me/shuurochkaaa">Написать в поддержку</mj-button>
   </mj-column>
 </mj-section>

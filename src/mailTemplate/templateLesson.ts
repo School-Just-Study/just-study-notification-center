@@ -293,7 +293,7 @@ export const templateLesson = (
                                   <tbody>
                                     <tr>
                                       <td align='center' bgcolor='#0c51c4' role='presentation' style='border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#0c51c4;' valign='middle'>
-                                        <a href='https://t.me/juststudy_help_bot' style='display:inline-block;background:#0c51c4;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0;border-radius:3px;' target='_blank'> Написать в поддержку </a>
+                                        <a href='https://t.me/shuurochkaaa' style='display:inline-block;background:#0c51c4;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0;border-radius:3px;' target='_blank'> Написать в поддержку </a>
                                       </td>
                                     </tr>
                                   </tbody>
